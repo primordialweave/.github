@@ -1,8 +1,8 @@
-# Primordial Weave
-
 <p align="center">
-  <img src="../assets/primordial-weave-banner.png" alt="Primordial Weave — Inspired by ancient wisdom. Built for the open future." width="100%" />
+  <img src="../assets/primordial-weave-banner.png" alt="Primordial Weave" width="100%" />
 </p>
+
+<h1 align="center">Primordial Weave</h1>
 
 <p align="center">
   <strong>Inspired by ancient wisdom. Built for the open future.</strong>
@@ -13,43 +13,49 @@
 </p>
 
 <p align="center">
-  <a href="#philosophy">Philosophy</a> ·
-  <a href="#our-work">Our Work</a> ·
-  <a href="#principles">Principles</a> ·
-  <a href="#join-us">Join Us</a>
+  Open Source · Tools · Systems · Culture
+</p>
+
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/English-1f6feb?style=for-the-badge" alt="English" />
+  </a>
+  <a href="./README.zh-CN.md">
+    <img src="https://img.shields.io/badge/简体中文-b8863b?style=for-the-badge" alt="简体中文" />
+  </a>
 </p>
 
 ---
 
 ## Philosophy
 
-**Primordial Weave** takes its inspiration from an ancient idea: beneath the diversity of all things lies an underlying order.
+Beneath the diversity of all things lies an underlying order.
 
-In Chinese philosophy, the *Dao* is the way through which all things emerge, transform, and find their place in the greater whole. Yin and yang express the dynamic interplay of opposites. The natural world reminds us that complexity can emerge from simple, interconnected principles.
+Inspired by Chinese philosophy, Primordial Weave explores the relationships between the Dao, yin and yang, and the ever-changing patterns of the natural world.
 
 We see a parallel in software.
 
 Small ideas become useful tools. Independent components form coherent systems. Open collaboration creates things no individual could build alone.
 
-We weave these ideas together — bringing the depth of ancient wisdom into conversation with the possibilities of modern technology.
+We weave these ideas together, bringing the depth of ancient wisdom into conversation with the possibilities of modern technology.
 
 ## Our Work
 
-We build open-source software shaped by three complementary pursuits.
-
 ### ◈ Tools
 
-Practical, thoughtfully crafted tools that make everyday work simpler, more intuitive, and more enjoyable.
+Thoughtfully crafted tools that make everyday work simpler, more intuitive, and more enjoyable.
 
 ### ◈ Systems
 
-Reusable components, frameworks, and foundations designed with clarity, composability, and long-term maintainability in mind.
+Reusable components, frameworks, and foundations designed for clarity, composability, and long-term maintainability.
 
 ### ◈ Culture
 
-Digital experiences that explore Eastern philosophy, traditional aesthetics, and the enduring ideas behind Chinese civilization.
+Digital experiences inspired by Eastern philosophy, traditional aesthetics, and the enduring ideas behind Chinese civilization.
 
-Our projects may take different forms, but they share a common intention: **to make useful things with clarity, care, and a sense of purpose.**
+Our projects may take different forms, but they share a common intention:
+
+**To make useful things with clarity, care, and a sense of purpose.**
 
 ## Principles
 
@@ -63,7 +69,7 @@ Inspired by yin and yang, we seek balance between power and simplicity, flexibil
 
 **03 — Craft over haste**
 
-Good software is more than working code. We care about details, thoughtful interfaces, sound architecture, and the experience of using what we build.
+We care about thoughtful interfaces, sound architecture, meaningful details, and the experience of using what we build.
 
 **04 — Open by nature**
 
@@ -71,7 +77,7 @@ Knowledge grows when it is shared. We believe in open collaboration, accessible 
 
 **05 — Build for the long term**
 
-We prefer durable foundations over fleeting trends. Our goal is to create work that remains useful, understandable, and adaptable over time.
+We prefer durable foundations over fleeting trends, creating work that remains useful, understandable, and adaptable over time.
 
 ## Our Approach
 
@@ -79,7 +85,7 @@ We do not treat tradition as something to preserve behind glass.
 
 We treat it as a living source of ideas.
 
-Ancient symbols can inspire new interfaces. Philosophical principles can inform software architecture. Traditional craftsmanship can teach us how to pay attention to the smallest details.
+Ancient symbols can inspire new interfaces. Philosophical principles can inform software architecture. Traditional craftsmanship can teach us to pay attention to the smallest details.
 
 The goal is not to imitate the past, but to discover what it can teach us about building the future.
 
@@ -107,5 +113,5 @@ We value curiosity, constructive collaboration, and respect for different perspe
 <p align="center">
   <strong>Primordial Weave</strong>
   <br />
-  Open Source · Tools · Systems · Culture
+  Inspired by ancient wisdom. Built for the open future.
 </p>
