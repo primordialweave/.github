@@ -1,7 +1,7 @@
 # Primordial Weave
 
 <p align="center">
-  <img src="./assets/primordial-weave-banner.png" alt="Primordial Weave — Inspired by ancient wisdom. Built for the open future." width="100%" />
+  <img src="../assets/primordial-weave-banner.png" alt="Primordial Weave — Inspired by ancient wisdom. Built for the open future." width="100%" />
 </p>
 
 <p align="center">
