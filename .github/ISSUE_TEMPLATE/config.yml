@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and security guidance
+    url: https://github.com/primordialweave/.github/blob/main/SUPPORT.md
+    about: How to get help or report a sensitive issue

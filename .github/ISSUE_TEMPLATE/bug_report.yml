@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a reproducible defect in a Primordial Weave project
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Search existing issues first. Never publish secrets or security vulnerabilities."
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Observed and expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version or commit
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime, relevant libraries and sanitized logs

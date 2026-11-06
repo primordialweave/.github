@@ -1,0 +1,24 @@
+name: Feature request
+description: Suggest a useful improvement
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Problem or user need
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and trade-offs
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
