@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/primordial-weave-banner.png" alt="Primordial Weave 原初织界" width="100%" />
+  <img src="https://raw.githubusercontent.com/primordialweave/.github/main/assets/primordial-weave-banner.png" alt="Primordial Weave 原初织界" width="100%" />
 </p>
 
 <h1 align="center">Primordial Weave · 原初织界</h1>
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/English-1f6feb?style=for-the-badge" alt="English" />
+  <a href="https://github.com/primordialweave/.github/blob/main/profile/README.md">
+    <img src="https://img.shields.io/badge/English-242424?style=for-the-badge" alt="English" />
   </a>
-  <a href="./README.zh-CN.md">
-    <img src="https://img.shields.io/badge/简体中文-b8863b?style=for-the-badge" alt="简体中文" />
+  <a href="https://github.com/primordialweave/.github/blob/main/profile/README.zh-CN.md">
+    <img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-A32E28?style=for-the-badge" alt="简体中文" />
   </a>
 </p>
 
@@ -58,6 +58,12 @@ Primordial Weave 的灵感源自中国传统哲学。
 我们的项目可以有不同的形态，但始终秉持同一个目标：
 
 **以清晰的思考、用心的设计和审慎的工程实践，创造真正有用的事物。**
+
+## 精选项目
+
+**[Fangcun · 方寸](https://github.com/primordialweave/fangcun)** —— 探索中国传统印章设计与数字篆刻的开源项目，以可编辑的设计体系和可追溯的文化研究为基础。目前仓库已提供产品、设计和技术文档；**项目仍处于开发阶段**。
+
+欢迎访问[组织公开仓库列表](https://github.com/orgs/primordialweave/repositories)，了解其他正在孵化的项目。
 
 ## 我们的原则
 
