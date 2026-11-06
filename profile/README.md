@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/primordial-weave-banner.png" alt="Primordial Weave" width="100%" />
+  <img src="https://raw.githubusercontent.com/primordialweave/.github/main/assets/primordial-weave-banner.png" alt="Primordial Weave" width="100%" />
 </p>
 
 <h1 align="center">Primordial Weave</h1>
@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/English-1f6feb?style=for-the-badge" alt="English" />
+  <a href="https://github.com/primordialweave/.github/blob/main/profile/README.md">
+    <img src="https://img.shields.io/badge/English-242424?style=for-the-badge" alt="English" />
   </a>
-  <a href="./README.zh-CN.md">
-    <img src="https://img.shields.io/badge/简体中文-b8863b?style=for-the-badge" alt="简体中文" />
+  <a href="https://github.com/primordialweave/.github/blob/main/profile/README.zh-CN.md">
+    <img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-A32E28?style=for-the-badge" alt="简体中文" />
   </a>
 </p>
 
@@ -56,6 +56,12 @@ Digital experiences inspired by Eastern philosophy, traditional aesthetics, and 
 Our projects may take different forms, but they share a common intention:
 
 **To make useful things with clarity, care, and a sense of purpose.**
+
+## Featured Project
+
+**[Fangcun · 方寸](https://github.com/primordialweave/fangcun)** — A project exploring traditional Chinese seal design and digital seal carving through editable design systems and cultural research. Its product, design, and technical documents are available in the repository; **the project is still under development**.
+
+Explore the [organization's public repositories](https://github.com/orgs/primordialweave/repositories) to follow other projects as they take shape.
 
 ## Principles
 
