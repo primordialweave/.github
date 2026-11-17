@@ -25,7 +25,8 @@
   </a>
 </p>
 
----
+<details>
+<summary>About Primordial Weave</summary>
 
 ## Philosophy
 
@@ -121,3 +122,5 @@ We value curiosity, constructive collaboration, and respect for different perspe
   <br />
   Inspired by ancient wisdom. Built for the open future.
 </p>
+
+</details>
